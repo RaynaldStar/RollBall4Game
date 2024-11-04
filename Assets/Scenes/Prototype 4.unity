@@ -348,8 +348,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 2888584598387467199, guid: 27f3c1be858bfa049ae1b8321c8c03a2, type: 3}
-  powerUpPrefab: {fileID: 7422699270042298796, guid: 3832ea5b96011b14dbb97ad20bbde209, type: 3}
-  spawnRange: 10
+  powerUpPrefab: {fileID: 3001425822321478220, guid: 79cf20e0db2a274429334b28cc08d6f4, type: 3}
+  spawnRange: 8
   waveCount: 1
 --- !u!1 &1071062676
 GameObject:
